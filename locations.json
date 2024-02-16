@@ -1,0 +1,56 @@
+﻿[
+  {
+    "name": "Pharmacy A",
+    "availability": {
+      "Monday": [ "10:00 AM - 1:00 PM", "3:00 PM - 6:00 PM" ],
+      "Tuesday": [ "9:00 AM - 12:00 PM", "2:00 PM - 5:00 PM" ]
+    }
+  },
+  {
+    "name": "Bakery A",
+    "availability": {
+      "Monday": [ "10:00 AM - 1:00 PM", "3:00 PM - 6:00 PM" ],
+      "Wednesday": [ "8:00 AM - 12:00 PM", "2:00 PM - 5:00 PM" ]
+    }
+  },
+  {
+    "name": "Supermarket A",
+    "availability": {
+      "Monday": [ "9:00 AM - 2:00 PM", "3:00 PM - 6:00 PM" ],
+      "Wednesday": [ "8:00 AM - 12:00 PM", "2:00 PM - 5:00 PM" ]
+    }
+  },
+  {
+    "name": "Flower Shop A",
+    "availability": {
+      "Friday": [ "11:00 AM - 3:00 PM", "3:00 PM - 6:00 PM" ]
+    }
+  },
+  {
+    "name": "Pharmacy B",
+    "availability": {
+      "Monday": [ "3:00 AM - 1:00 PM", "3:00 PM - 6:00 PM" ],
+      "Tuesday": [ "9:00 AM - 12:00 PM", "2:00 PM - 5:00 PM" ]
+    }
+  },
+  {
+    "name": "Bakery B",
+    "availability": {
+      "Monday": [ "10:00 AM - 1:00 PM", "3:00 PM - 6:00 PM" ],
+      "Wednesday": [ "8:00 AM - 12:00 PM", "2:00 PM - 5:00 PM" ]
+    }
+  },
+  {
+    "name": "Supermarket B",
+    "availability": {
+      "Monday": [ "9:00 AM - 2:00 PM", "3:00 PM - 6:00 PM" ],
+      "Wednesday": [ "8:00 AM - 12:00 PM", "2:00 PM - 5:00 PM" ]
+    }
+  },
+  {
+    "name": "Flower Shop B",
+    "availability": {
+      "Friday": [ "6:00 AM - 3:00 PM", "3:00 PM - 6:00 PM" ]
+    }
+  }
+]
